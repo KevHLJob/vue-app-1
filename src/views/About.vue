@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about pa-6 text-center">
+    <h1>Creada por: ING. Kevin López Meza</h1>
   </div>
 </template>
