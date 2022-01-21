@@ -1,4 +1,4 @@
-# vue-app-1
+# Vue To-DO-List creado con Tecnologías Vue.js y Vuetify.
 
 ## Project setup
 ```
